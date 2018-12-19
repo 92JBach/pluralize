@@ -2,6 +2,8 @@
 
 This is my simple solution to the common issue of formatting numbers into sentences such that making them plural is a nessecity. While you could easily use an if statement, this allows for much more use cases. It all started with [this](https://stackoverflow.com/questions/53589770/making-sentence-word-plural-based-on-value) question on stackoverflow.
 
+Currently this is only for python 3.6+ as it uses [f-strings](https://www.python.org/dev/peps/pep-0498/)
+
 **Output a simple number** (deleted) **to user readable format**
 
 deleted = 2
