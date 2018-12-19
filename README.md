@@ -24,4 +24,5 @@ With **pluralize**
 import pluralize
 
 deleted = pluralize(deleted, singular="entry", plural="entries")
-print(f"{deleted} were removed")```
+print(f"{deleted} were removed")
+```
